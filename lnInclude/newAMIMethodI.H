@@ -1,0 +1,1 @@
+../numerics/newAMIInterpolation/newAMIMethod/newAMIMethod/newAMIMethodI.H

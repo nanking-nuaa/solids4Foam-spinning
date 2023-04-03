@@ -1,0 +1,1 @@
+../solidModels/electricthermalLinGeomSolid/electricthermalLinGeomSolid.C

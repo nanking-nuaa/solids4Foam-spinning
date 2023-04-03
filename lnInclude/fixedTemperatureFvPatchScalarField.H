@@ -1,0 +1,1 @@
+../solidModels/fvPatchFields/fixedTemperature/fixedTemperatureFvPatchScalarField.H

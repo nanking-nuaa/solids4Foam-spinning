@@ -1,0 +1,1 @@
+../solidModels/fvPatchFields/solidRigidContact/triSurfaceMotion/triSurfaceMotion.C

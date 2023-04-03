@@ -1,0 +1,1 @@
+../solidModels/weakThermalLinGeomSolid/weakThermalLinGeomSolid.H

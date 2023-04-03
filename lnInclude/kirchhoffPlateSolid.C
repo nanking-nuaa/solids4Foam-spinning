@@ -1,0 +1,1 @@
+../solidModels/kirchhoffPlateSolid/kirchhoffPlateSolid.C

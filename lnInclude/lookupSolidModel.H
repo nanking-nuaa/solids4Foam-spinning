@@ -1,0 +1,1 @@
+../solidModels/solidModel/lookupSolidModel.H

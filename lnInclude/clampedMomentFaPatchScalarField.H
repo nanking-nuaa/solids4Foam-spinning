@@ -1,0 +1,1 @@
+../solidModels/kirchhoffPlateSolid/clampedMoment/clampedMomentFaPatchScalarField.H
